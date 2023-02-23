@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+<p> Hi 👋, I'm Ítalo Oliveira, I am a dev passionate about technology! 💻 <p>
+  <p> I'm a Front End Programmer, I'm currently learning and creating projects with ↙️
+<p>
+<img width="182" alt="image" src="https://user-images.githubusercontent.com/126080607/220885186-5986de77-43a5-4a89-924c-1e7ce4851c19.png">
+
+
+
+
 
 <!--
 **italooliveiradev/italooliveiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
